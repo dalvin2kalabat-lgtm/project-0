@@ -21,9 +21,11 @@ Test card number: 4242 4242 4242 4242 (any future date, any 3 digit CVV)
 None
 
 ## Self Assessment
+
 | Rubric item | My score |
 |---|---|
-| | |
-| | |
-| | |
-| Total | |
+| Hard-coded items for sale | 5/5 |
+| Buy one item at a time | 5/5 |
+| Fake checkout screen | 5/5 |
+| Card validation | 5/5 |
+| Total | 20/20 |
